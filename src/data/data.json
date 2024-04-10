@@ -1,0 +1,24 @@
+{
+    "credentials": {
+        "standardUser": "standard_user",
+        "lockedOutUser": "locked_out_user",
+        "password": "secret_sauce"
+    },
+    "urls": {
+        "homepage": "www.saucedemo.com"
+    },
+    "messages": {
+        "lockedOut": "Epic sadface: Sorry, this user has been locked out.",
+        "success": "Thank you for your order!"
+    },
+    "items": {
+        "bikeLight": "Bike Light",
+        "backpack": "Backpack",
+        "boltTshirt": "Bolt T-Shirt"
+    },
+    "details": {
+        "firstName": "John",
+        "lastName": "Doe",
+        "zipCode": "11111"
+    }
+}
